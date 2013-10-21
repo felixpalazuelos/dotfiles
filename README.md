@@ -9,6 +9,6 @@ This repo includes all my configuration files for Linux distros (i actually use 
 Installation
 --------------------------------
 
-`git clone git://github.com/felixpalazuelos/dotfiles ~/dotfiles
-cd ~/dotfiles
-./makesymlinks.sh`
+    git clone git://github.com/felixpalazuelos/dotfiles ~/dotfiles
+    cd ~/dotfiles
+    ./makesymlinks.sh
