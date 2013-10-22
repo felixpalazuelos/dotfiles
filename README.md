@@ -1,17 +1,19 @@
 Felix Palazuelos dotfiles
 ================================
 
-This repo includes all my configuration files for Linux distros (i actually use Archlinux). If you want use them, you should clone to `~/dotfiles` and create symlinks to your home directory.
+This repo includes all my configuration files for Linux and SublimeText.
 
 
 Installation
 --------------------------------
 
-An example installation (delete all scripts you will override!)
+An example installation with .bashrc file:
 
     git clone git://github.com/felixpalazuelos/dotfiles ~/dotfiles
-    rm -r .vim .vimrc .screenrc .gitconfig
-    ln -s .dotfiles/vim .vim
-    ln -s .dotfiles/vimrc .vimrc
-    ln -s .dotfiles/screenrc .screenrc
-    ln -s .dotfiles/gitconfig .gitconfig
+    rm ~/.bashrc
+    ln -s .dotfiles/bashrc .bashrc
+
+Now with Sublime User folder:
+
+    rm ~/.config/sublime-text-3/Packages/User
+    ln -s ~/dotfiles/sublime-text/User ~/.config/sublime-text-3/Packages
