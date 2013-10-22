@@ -11,7 +11,7 @@ An example installation with .bashrc file:
 
     git clone git://github.com/felixpalazuelos/dotfiles ~/dotfiles
     rm ~/.bashrc
-    ln -s .dotfiles/bashrc .bashrc
+    ln -s ~/dotfiles/bashrc ~/.bashrc
 
 Now with Sublime User folder:
 
