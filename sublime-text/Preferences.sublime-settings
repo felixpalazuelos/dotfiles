@@ -1,0 +1,17 @@
+{
+	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night-Eighties.tmTheme",
+    "theme": "Soda Dark 3.sublime-theme",
+	"soda_folder_icon": true,
+	"font_face": "Terminus",
+	"font_size": 10,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"scroll_speed": 0,
+	"translate_tabs_to_spaces": true,
+	"close_windows_when_empty": true,
+
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}
