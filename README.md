@@ -17,3 +17,8 @@ Now with Sublime User folder:
 
     rm ~/.config/sublime-text-3/Packages/User
     ln -s ~/dotfiles/sublime-text/User ~/.config/sublime-text-3/Packages
+
+For firefox style (change with your profile):
+
+    ln -s ~/dotfiles/firefox/userChrome.css ~/.mozilla/firefox/9shb6xj3.default/chrome/
+
