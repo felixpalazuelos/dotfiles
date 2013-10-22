@@ -1,0 +1,36 @@
+[
+    // Tab size
+    {
+        "class": "tabset_control",
+        "tab_height": 30,
+        "tab_width": 250
+    },
+
+    // Tab Terminus font
+    {
+        "class": "tab_label",
+        "font.size": 10,
+        "font.face": " Terminus" 
+    },
+
+    // Sidebar Terminus font
+    {
+        "class": "sidebar_label",
+        "font.size": 10,
+        "font.face": " Terminus" 
+    },    
+
+    // Sidebar headings Terminus font
+    {
+        "class": "sidebar_heading",
+        "font.size": 10,
+        "font.face": " Terminus" 
+    },
+
+    // Statusbar Terminus font
+    {
+        "class": "label_control",
+        "font.size": 10,
+        "font.face": " Terminus" 
+    },
+]
