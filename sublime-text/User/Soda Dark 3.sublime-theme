@@ -2,8 +2,7 @@
     // Tab size
     {
         "class": "tabset_control",
-        "tab_height": 30,
-        "tab_width": 250
+        "tab_height": 25
     },
 
     // Tab Terminus font
@@ -32,5 +31,5 @@
         "class": "label_control",
         "font.size": 10,
         "font.face": " Terminus" 
-    },
+    }
 ]
