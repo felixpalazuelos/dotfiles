@@ -1,8 +1,6 @@
 " felixpalazuelos .vimperatorrc
 
-
-
-" QMarks {{{1
+" QMarks
 silent qmark c http://www.google.com/calendar/render?hl=ja
 silent qmark e https://www.evernote.com/Home.action
 silent qmark f http://facebook.com
@@ -11,3 +9,8 @@ silent qmark G http://gist.github.com/
 silent qmark m https://mail.google.com/mail/
 silent qmark t http://twitter.com/home/
 
+" colorscheme tomorrow-night
+
+" smoother scroll
+:noremap j 8j
+:noremap k 8k
