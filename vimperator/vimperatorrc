@@ -9,7 +9,7 @@ silent qmark G http://gist.github.com/
 silent qmark m https://mail.google.com/mail/
 silent qmark t http://twitter.com/home/
 
-" colorscheme tomorrow-night
+colorscheme indigo
 
 " smoother scroll
 :noremap j 8j
