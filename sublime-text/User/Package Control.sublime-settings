@@ -1,7 +1,9 @@
 {
 	"installed_packages":
 	[
-		"Alignment",
+		"AdvancedNewFile",
+		"Markdown Extended",
+		"Markdown Preview",
 		"SideBarEnhancements",
 		"Theme - Soda",
 		"Tomorrow Color Schemes"
