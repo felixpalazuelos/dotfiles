@@ -8,6 +8,7 @@ silent qmark g https://github.com/
 silent qmark G http://gist.github.com/
 silent qmark m https://mail.google.com/mail/
 silent qmark t http://twitter.com/home/
+silent qmark r http://reddit.com/
 
 colorscheme tomorrow-night
 
