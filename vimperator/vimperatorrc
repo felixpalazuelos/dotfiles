@@ -17,5 +17,5 @@ colorscheme tomorrow-night
 :noremap k 8k
 
 " set default search engine to duck duck goooooo
-:set defsearch=duckduckgo
+:set defsearch=google
 
