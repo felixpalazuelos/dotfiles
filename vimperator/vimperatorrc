@@ -15,3 +15,7 @@ colorscheme tomorrow-night
 " smoother scroll
 :noremap j 8j
 :noremap k 8k
+
+" set default search engine to duck duck goooooo
+:set defsearch=duckduckgo
+
