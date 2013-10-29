@@ -1,7 +1,7 @@
 " felixpalazuelos .vimperatorrc
 
 " QMarks
-silent qmark c http://www.google.com/calendar/render?hl=ja
+silent qmark c http://www.google.com/calendar
 silent qmark e https://www.evernote.com/Home.action
 silent qmark f http://facebook.com
 silent qmark g https://github.com/
@@ -16,6 +16,6 @@ colorscheme tomorrow-night
 :noremap j 8j
 :noremap k 8k
 
-" set default search engine to duck duck goooooo
+" set default search
 :set defsearch=google
 
