@@ -1,6 +1,8 @@
 " felixpalazuelos .vimperatorrc
 
 " QMarks
+silent qmark a http://www.amazon.es/
+silent qmark A http://www.amazon.co.uk/
 silent qmark c http://www.google.com/calendar
 silent qmark e https://www.evernote.com/Home.action
 silent qmark f http://facebook.com
@@ -9,6 +11,7 @@ silent qmark G http://gist.github.com/
 silent qmark m https://mail.google.com/mail/
 silent qmark t http://twitter.com/home/
 silent qmark r http://reddit.com/
+silent qmark R http://www.rdio.com
 
 colorscheme tomorrow-night
 
