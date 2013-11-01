@@ -1,15 +1,23 @@
 {
+	"auto_complete_triggers":
+	[
+		{
+			"characters": ".",
+			"selector": "source.python"
+		}
+	],
 	"bold_folder_labels": true,
 	"caret_style": "wide",
-	"close_windows_when_empty": true,
+	"close_windows_when_empty": false,
 	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
 	"font_face": "Terminus",
 	"font_size": 10,
-	"gutter": true,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		//vim mode
+		"Vintage"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
