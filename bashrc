@@ -91,7 +91,6 @@ alias df='df -h'
 alias du='du -c -h'
 alias mkdir='mkdir -p -v'
 alias nano='nano -w'
-alias python='python2'
 alias ping='ping -c 5'
 alias dmesg='dmesg -HL'
 # }}}
@@ -143,3 +142,6 @@ alias pacimpl="/usr/bin/pacman -D --asdep"	# 'mark as [impl]icit'	- mark one or 
 alias pacro="/usr/bin/pacman -Qtdq > /dev/null && sudo /usr/bin/pacman -Rs \$(/usr/bin/pacman -Qtdq | sed -e ':a;N;$!ba;s/\n/ /g')"
 # }}}
 
+
+# Python jedi on interpreter
+export PYTHONSTARTUP="$(python -m jedi repl 2>/dev/null)"
